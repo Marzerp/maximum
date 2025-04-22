@@ -1,2 +1,2 @@
-# maximum
-encuentra el maximo valor de una lista
+# Maximum and Minimum
+Find maximum and minimum value in a list in Python
